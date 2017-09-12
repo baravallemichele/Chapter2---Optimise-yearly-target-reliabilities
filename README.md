@@ -1,5 +1,5 @@
 ## Chapter5 
- 
+This folder contains the scripts behind the calcualtions presented in the article:
 # A risk-based approach for calibration of design codes
 authors  
 journal  
