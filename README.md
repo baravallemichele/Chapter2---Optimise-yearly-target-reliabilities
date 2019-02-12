@@ -1,9 +1,9 @@
 ## Chapter5 
 This folder contains the scripts behind the calcualtions presented in the article:
 # A risk-based approach for calibration of design codes
-authors  
-journal  
-doi  
+Michele Baravalle; Jochen Köhler  
+Structural Safety - Volume 78, May 2019, Pages 63-75 
+https://doi.org/10.1016/j.strusafe.2018.12.003  
 
 ### Info  
 The scripts with names beginning with “MAIN” are the main scripts where all the inputs are defined and the calculations are performed. All the other scripts are called from the main scripts.  
